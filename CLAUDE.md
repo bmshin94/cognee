@@ -1,3 +1,24 @@
+# cognee (topoteretes/cognee)
+
+## 프로젝트 개요
+금방 지나간 대화를 잊어버리는 AI 에이전트에게 뇌세포처럼 유기적으로 연결된 평생 기억력을 선물하는 "AI 에이전트 전용 장기 기억 플랫폼"
+사용자의 방대한 문서, 과거 대화, 업무 기록을 개념 간의 관계망으로 입체화하여 질문할 때마다 정확한 기억만 쏙쏙 추출
+단순 검색을 넘어 인간처럼 상황과 맥락을 깊이 이해하는 초지능 에이전트를 구축하기 위한 필수 뇌 엔진
+
+## 핵심 특징 & 추천 분야
+- 에이전트장기기억
+- 지식그래프
+- 초개인화AI
+- 문맥이해엔진
+- 에이전트브레인
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
